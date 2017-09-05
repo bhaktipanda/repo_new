@@ -1,2 +1,2 @@
 Hello, Computer AI !!!!
-hello
+hello..Welcome to Training
